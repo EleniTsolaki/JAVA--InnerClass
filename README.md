@@ -1,2 +1,2 @@
 # JAVA--InnerClass
-#Example of the use of Inner Class
+#Example: the use of Inner Class
